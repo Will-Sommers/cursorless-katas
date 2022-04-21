@@ -1,0 +1,1 @@
+- [Word](./word_char)

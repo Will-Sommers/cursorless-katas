@@ -3,5 +3,3 @@ Person = {
   lastName: "Jiang",
   location: "Brooklyn",
 };
-
-list = [firstName lastName location];
