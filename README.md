@@ -25,7 +25,7 @@ Todo:
 
 If you are a little more familiar with Cursorless, consider starting from [Actions](./katas/actions/) too. If you're not inclined here are a few interesting sections
 
-- Inference
-- Just
-- Paint
+- [Inference](./katas/inference/scope_inference/)
+- [Just](./katas/inference/just/)
+- [Paint](./katas/special_scopes/paint/)
 - Slice
