@@ -10,7 +10,7 @@ Below is ordering for the katas within this folder.
   - [Hover & Falling](./vs_code_editor_actions/vs_code_hover_falling.md)
   - References & Type Definitions
   - Breakpoint, Debug Hover, & Quick Fix
-- Adding lines (pour, drink, puff)
+- [Adding lines — Pour, Drink, Puff)](./pour_drink_puff/)
 - [Comment](./comment)
 - Indent/Dedent
 - Give
