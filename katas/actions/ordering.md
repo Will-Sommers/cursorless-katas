@@ -1,0 +1,18 @@
+- Editing Actions
+- Copy Paste Actions
+- Simple Navigation Actions
+- VS Code Actions
+  - Scout
+  - Rename
+  - Fold
+  - Hover & Falling
+  - References & Type Definitions
+  - Breakpoint, Debug Hover, & Quick Fix
+- Adding lines (pour, drink, puff)
+- Comment
+- Indent/Dedent
+- Give
+- Sort/Reverse/Shuffle
+- Bring/Move
+- Wrap/Rewrap
+- Form
