@@ -1,3 +1,3 @@
-  function testFunk() {
-    helloWorld = 10;
-  }
+function testFunk() {
+  helloWorld = 10;
+}
