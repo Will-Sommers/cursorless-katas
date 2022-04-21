@@ -24,7 +24,6 @@ Todo:
 - [Language Scopes](./katas/language_scopes/)
 - [Paired Delimiters](./katas/paired_delimiters/)
 - [Compound Targets](./katas/compound_targets/)
-
 - [Creating your own action](./katas/creating_your_own_action/)
 
 If you are a little more familiar with Cursorless, consider starting from [Actions](./katas/actions/) too. If you're not inclined here are a few interesting sections
