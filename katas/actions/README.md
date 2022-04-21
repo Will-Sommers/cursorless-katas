@@ -3,20 +3,20 @@ Below is ordering for the katas within this folder.
 Please submit issues if you find bugs or a lack of clarity.
 
 - [Editing Actions](./editing_actions/editing_actions.md)
-- Copy Paste Actions
-- Simple Navigation Actions
+- [Copy Paste Actions](./copy_paste_actions/copy_paste_actions.md)
+- [Simple Navigation Actions](./simple_navigation_actions/simple_navigation_actions.md)
 - VS Code Actions
-  - Scout
-  - Rename
-  - Fold
-  - Hover & Falling
+  - [Scout](./vs_code_editor_actions/vs_code_scout.md)
+  - [Rename](./vs_code_editor_actions/vs_code_rename.md)
+  - [Fold](./vs_code_editor_actions/vs_code_fold.md)
+  - [Hover & Falling](./vs_code_editor_actions/vs_code_hover_falling.md)
   - References & Type Definitions
   - Breakpoint, Debug Hover, & Quick Fix
 - Adding lines (pour, drink, puff)
-- Comment
+- [Comment](./comment/comment.md)
 - Indent/Dedent
 - Give
 - Sort/Reverse/Shuffle
 - Bring/Move
 - Wrap/Rewrap
-- Form
+- [Form](./form_actions/form_actions.md)
