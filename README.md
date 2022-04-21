@@ -9,6 +9,7 @@ It may be the basis for something more formal within the Cursorless repo, or it 
 # How to use this repo
 
 If you're interested in using this to learn Cursorless and you are a beginner, go in this order.
+
 In Progress:
 
 - [Actions](./katas/actions/)
