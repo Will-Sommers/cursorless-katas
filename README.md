@@ -10,15 +10,15 @@ It may be the basis for something more formal within the Cursorless repo, or it 
 
 If you're interested in using this to learn Cursorless and you are a beginner, go in this order.
 
-- [Actions](./actions/)
-- [Language Scopes](./language_scopes/)
-- [Paired Delimiters](./paired_delimiters/)
-- [Compound Targets](./compound_targets/)
-- [Ranges](./ranges/)
-- [Special Scopes](./special_scopes/)
-- [Creating your own action](./creating_your_own_action/)
+- [Actions](./katas/actions/)
+- [Language Scopes](./katas/language_scopes/)
+- [Paired Delimiters](./katas/paired_delimiters/)
+- [Compound Targets](./katas/compound_targets/)
+- [Ranges](./katas/ranges/)
+- [Special Scopes](./katas/special_scopes/)
+- [Creating your own action](./katas/creating_your_own_action/)
 
-If you are a little more familiar with Cursorless, consider starting from [Actions](./actions/) too. If you're not inclined here are a few interesting sections
+If you are a little more familiar with Cursorless, consider starting from [Actions](./katas/actions/) too. If you're not inclined here are a few interesting sections
 
 - Inference
 - Just
