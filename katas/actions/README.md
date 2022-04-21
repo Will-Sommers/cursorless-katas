@@ -13,7 +13,7 @@ Please submit issues if you find bugs or a lack of clarity.
   - References & Type Definitions
   - Breakpoint, Debug Hover, & Quick Fix
 - Adding lines (pour, drink, puff)
-- [Comment](./comment/comment.md)
+- [Comment](./comment)
 - Indent/Dedent
 - Give
 - Sort/Reverse/Shuffle
