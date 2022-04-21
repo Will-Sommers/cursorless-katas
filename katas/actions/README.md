@@ -12,8 +12,8 @@ Below is ordering for the katas within this folder.
   - Breakpoint, Debug Hover, & Quick Fix
 - [Adding lines — Pour, Drink, Puff)](./pour_drink_puff/)
 - [Comment](./comment)
-- Indent/Dedent
-- Give
+- [Indent/Dedent](./indent_dedent)
+- [Give](./give)
 - Sort/Reverse/Shuffle
 - Bring/Move
 - Wrap/Rewrap
