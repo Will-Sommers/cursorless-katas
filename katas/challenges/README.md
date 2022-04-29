@@ -1,2 +1,4 @@
 - [Keys to List](./keys_to_list/)
 - [Function with argues](./function_with_argues/)
+- [Reformat three params](./reformat_three_params/)
+- [Reformat two params](./reformat_two_params/)

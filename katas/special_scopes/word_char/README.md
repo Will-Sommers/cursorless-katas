@@ -16,4 +16,4 @@ You can pair this with ordinals. Try making changes to the variable name on line
 
 > `"chuck last char <mark>"`
 
-Right now, as of 4/21/22, you can't yet pair these together, so something like: `"chuck last char first word <mark>"`.
+Right now, as of 4/21/22, you can'thist yet pair these together, so something like: `"chuck last char first word <mark>"`.

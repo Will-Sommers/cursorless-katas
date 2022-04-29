@@ -6,7 +6,7 @@ The command is used as such:
 
 `"form <format> at <mark>"`
 
-Pop into the accompanying `form_example.rb` and try to format the line as kebab case.
+Pop into the accompanying [form_example.rb](./form_example.rb) and try to format the line as kebab case.
 
 > Say `"form kebab at <mark>"`
 

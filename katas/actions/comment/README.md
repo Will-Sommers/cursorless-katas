@@ -1,6 +1,6 @@
 # Reformatting text
 
-The `"comment"` command is used to comment a whole row. Pop into the accompanying `comment_example.rb` and try to comment out this line:
+The `"comment"` command is used to comment a whole row. Pop into the accompanying [comment_example.rb](./comment_example.rb) and try to comment out this line:
 
 ```
 This is an example of addition in Ruby

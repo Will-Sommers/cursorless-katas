@@ -14,21 +14,21 @@ Completed:
 
 In Progress:
 
-- [Actions](./katas/actions/)
-- [Ranges](./katas/ranges/)
-- [Special Scopes](./katas/special_scopes/)
-- [Challenges](./katas/challenges/)
+- [Actions](./katas/actions/README.md)
+- [Ranges](./katas/ranges/README.md)
+- [Special Scopes](./katas/special_scopes/README.md)
+- [Challenges](./katas/challenges/README.md)
 
 Todo:
 
-- [Language Scopes](./katas/language_scopes/)
-- [Paired Delimiters](./katas/paired_delimiters/)
-- [Compound Targets](./katas/compound_targets/)
-- [Creating your own action](./katas/creating_your_own_action/)
+- [Language Scopes](./katas/language_scopes/README.md)
+- [Paired Delimiters](./katas/paired_delimiters/README.md)
+- [Compound Targets](./katas/compound_targets/README.md)
+- [Creating your own action](./katas/creating_your_own_action/README.md)
 
 If you are a little more familiar with Cursorless, consider starting from [Actions](./katas/actions/) too. If you're not inclined here are a few interesting sections
 
-- [Inference](./katas/modifiers/scope_inference/)
-- [Just](./katas/modifiers/just/)
-- [Paint](./katas/special_scopes/paint/)
-- Slice
+- [Inference](./katas/modifiers/scope_inference/README.md)
+- [Just](./katas/modifiers/just/README.md)
+- [Paint](./katas/special_scopes/paint/README.md)
+- [Slice](./katas/modifiers/slice/README.md)

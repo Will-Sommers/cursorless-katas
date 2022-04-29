@@ -2,7 +2,7 @@
 
 This will be pretty self explanatory with one caveat, discussed after the example.
 
-Open `indent_dedent.js` and put your cursor on line 2.
+Open [indentDedent.js](./indentDedent.js) and put your cursor on line 2.
 
 > Say `"indent"` or `"indent this"`
 

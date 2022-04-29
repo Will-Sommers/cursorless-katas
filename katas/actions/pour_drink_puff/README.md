@@ -2,7 +2,7 @@
 
 The "It's Saturday Night" of actions. We'll split this section into two pieces. `"drink"` and `"pour"` are used to insert lines, either above or below the mark, respectively. They can be used with either an implicit mark.
 
-Put your cursor on line 1 of the `pour_drink_puff.js` file.
+Put your cursor on line 1 of the [pourDrinkPuff.js](./pourDrinkPuff.js) file.
 
 > Say `"pour"`
 
@@ -18,7 +18,7 @@ Now try adding a line above, using `"drink"`.
 
 Onto `"puff"`. This action also adds lines, in this case, a line above and below the target. However, the cursor position is not altered.
 
-Put your cursor on line 1 of the `pour_drink_puff.js` file.
+Put your cursor on line 1 of the [pourDrinkPuff.js](./pourDrinkPuff.js) file.
 
 > Say `"puff this"`
 
