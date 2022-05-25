@@ -12,11 +12,12 @@ If you're interested in using this to learn Cursorless and you are a beginner, g
 
 Completed:
 
+- [Language Scopes, a representative subset](./katas/language_scopes/README.md)
+
 In Progress:
 
 - [Actions](./katas/actions/README.md)
 - [Ranges](./katas/ranges/README.md)
-- [Language Scopes](./katas/language_scopes/README.md)
 - [Special Scopes](./katas/special_scopes/README.md)
 - [Challenges](./katas/challenges/README.md)
 
