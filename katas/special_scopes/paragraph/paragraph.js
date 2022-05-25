@@ -4,7 +4,6 @@ const ok3 = 12;
 
 const ok4 = 13;
 
-function() {
-
-  yar()
+function hi() {
+  yar();
 }
