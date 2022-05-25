@@ -16,12 +16,12 @@ In Progress:
 
 - [Actions](./katas/actions/README.md)
 - [Ranges](./katas/ranges/README.md)
+- [Language Scopes](./katas/language_scopes/README.md)
 - [Special Scopes](./katas/special_scopes/README.md)
 - [Challenges](./katas/challenges/README.md)
 
 Todo:
 
-- [Language Scopes](./katas/language_scopes/README.md)
 - [Paired Delimiters](./katas/paired_delimiters/README.md)
 - [Compound Targets](./katas/compound_targets/README.md)
 - [Creating your own action](./katas/creating_your_own_action/README.md)
