@@ -20,10 +20,10 @@ In Progress:
 - [Ranges](./katas/ranges/README.md)
 - [Special Scopes](./katas/special_scopes/README.md)
 - [Challenges](./katas/challenges/README.md)
+- [Paired Delimiters](./katas/paired_delimiters/README.md)
 
 Todo:
 
-- [Paired Delimiters](./katas/paired_delimiters/README.md)
 - [Compound Targets](./katas/compound_targets/README.md)
 - [Creating your own action](./katas/creating_your_own_action/README.md)
 

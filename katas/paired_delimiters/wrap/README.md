@@ -48,4 +48,6 @@ The trailing comma is not selected. You can fix this with the following command.
 
 Now, with the full selection issue a wrap command put a `"box"` around the selection. If you're unfamiliar with `"paint"`, check out the [paint kata](../../special_scopes/paint/).
 
+Once you're finished, check out all of the [paired delimiters here](https://www.cursorless.org/docs/#paired-delimiters). Try to get fluent in the ones you'll use the most.
+
 Good luck!
