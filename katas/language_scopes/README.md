@@ -7,3 +7,4 @@ This is far from the entirity of scopeTypes exposed by Cursorless to the end use
 - [Funk](./funk/)
 - [Class](./class/)
 - [Items and Arguments](./items_and_arguments/)
+- [Keys and Values](./keys_and_values)
