@@ -11,10 +11,10 @@ Below is ordering for the katas within this folder.
   - References & Type Definitions
   - Breakpoint, Debug Hover, & Quick Fix
 - [Adding lines — Pour, Drink, Puff](./pour_drink_puff/)
-- [Comment](./comment)
-- [Indent/Dedent](./indent_dedent)
-- [Give](./give)
+- [Comment](./comment/)
+- [Indent/Dedent](./indent_dedent/)
+- [Give](./give/)
 - [Sort/Reverse/Shuffle](./sort_reverse_shuffle/)
 - Bring/Move
 - Wrap/Rewrap
-- [Form](./form_actions/form_actions.md)
+- [Form](./form_actions/)
