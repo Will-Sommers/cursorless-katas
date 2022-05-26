@@ -13,6 +13,7 @@ If you're interested in using this to learn Cursorless and you are a beginner, g
 Completed:
 
 - [Language Scopes, a representative subset](./katas/language_scopes/README.md)
+- [Paired Delimiters](./katas/paired_delimiters/README.md)
 
 In Progress:
 
@@ -20,7 +21,6 @@ In Progress:
 - [Ranges](./katas/ranges/README.md)
 - [Special Scopes](./katas/special_scopes/README.md)
 - [Challenges](./katas/challenges/README.md)
-- [Paired Delimiters](./katas/paired_delimiters/README.md)
 
 Todo:
 

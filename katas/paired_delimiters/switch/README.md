@@ -4,7 +4,7 @@ This builds off of the [Wrap](../wrap/) action. If you haven't gone through that
 
 Open up the [switch.js](./switch.js) file and you'll see a familiar bit of code.
 
-##### First Exercise
+##### Exercise 1
 
 Try switching the paired delimiter for the string. Place your cursor in the string and then:
 
@@ -12,7 +12,7 @@ Try switching the paired delimiter for the string. Place your cursor in the stri
 
 Try it again, but this time using a mark.
 
-##### Second Exercise
+##### Exercise 2
 
 Let's try to same thing with the list below. Cursorless knows what to do and will swap the brackets out for any valid paired delimiter. However, what happens when we have two nested delimiters? Let's first wrap the first member of the list in double quotes.
 
@@ -30,4 +30,12 @@ Now, place your cursor inside the "hello" string and issue a `"switch"` command.
 
 What happened? Did the list's delimiter switch from a bracket to a backtick? `"switch"` operates on the nearest set of paired delimiters.
 
-Finally a question for the reader, why can I use `"this"` without a selection(ie. just a cursor) with `"switch"`? What happens when I do the same thing with `"wrap"`? Think for a second as to why they operate slightly differently.
+##### Exercise 3
+
+This exercise assumes knowledge about [Inside and Bound](../../modifiers/inside_bound/) so take a look there if you haven't yet. Let's try to rewrap with the help of specific paired delimiters.
+
+Let's turn the whole right side of the statement into a template string. Place your cursor inside of `"value"` and issue the following command.
+
+> Say `"ski switch box"`
+
+Rather than targeting the nearest delimiter, Cursorless will search for the nearest delimiter of the type specified. Undo your changes and try it yourself with the other delimiters in the statement.
