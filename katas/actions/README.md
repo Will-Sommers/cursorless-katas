@@ -2,7 +2,7 @@ Below is ordering for the katas within this folder.
 
 - [Editing Actions](./editing_actions/editing_actions.md)
 - [Copy Paste Actions](./copy_paste_actions/copy_paste_actions.md)
-- [Simple Navigation Actions](./simple_navigation_actions/simple_navigation_actions.md)
+- [Simple Navigation Actions](./simple_navigation_actions/)
 - VS Code Actions
   - [Scout](./vs_code_editor_actions/vs_code_scout.md)
   - [Rename](./vs_code_editor_actions/vs_code_rename.md)
