@@ -4,3 +4,4 @@ Special Scopes
 - [Paragraph](./paragraph)
 - [Paint](./paint/)
 - [File](./file/)
+- [Token](./token/)
