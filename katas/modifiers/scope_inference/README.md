@@ -10,6 +10,8 @@ The `and` connective allows us to issue multiple commands in a single statement.
 
 Try omitting the second and third `"list"` scopes from the statement above. Cursorless will infer that you are referring to the list scope type.
 
+> Say `"take list <mark1> and <mark2> and <mark3>"`
+
 Try doing the same using the `statement` scopeType.
 
 Right now, this only works with language type scopes. So a statement like `take line 4 and 5` does not yet work.
