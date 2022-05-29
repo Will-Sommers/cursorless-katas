@@ -5,3 +5,4 @@ Special Scopes
 - [Paint](./paint/)
 - [File](./file/)
 - [Token](./token/)
+- [Head & Tail](./head_tail)

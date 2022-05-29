@@ -28,8 +28,10 @@ Completed:
 In Progress:
 
 - [Actions](./katas/actions/README.md)
-- [Ranges](./katas/ranges/README.md)
 - [Special Scopes](./katas/special_scopes/README.md)
+
+Always in Progress:
+
 - [Challenges](./katas/challenges/README.md)
 
 Not started:
