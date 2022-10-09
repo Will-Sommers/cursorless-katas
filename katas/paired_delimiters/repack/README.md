@@ -1,14 +1,14 @@
-# Switch
+# Repack
 
-This builds off of the [Wrap](../wrap/) action. If you haven't gone through that kata yet, go check it out. This one will be a brief overview of `"switch"` which gives you the ability to identity a paired delimiter and replace it with another paired delimiter.
+This builds off of the [Wrap](../wrap/) action. If you haven't gone through that kata yet, go check it out. This one will be a brief overview of `"repack"` which gives you the ability to identity a paired delimiter and replace it with another paired delimiter.
 
-Open up the [switch.js](./switch.js) file and you'll see a familiar bit of code.
+Open up the [repack.js](./repack.js) file and you'll see a familiar bit of code.
 
 ##### Exercise 1
 
-Try switching the paired delimiter for the string. Place your cursor in the string and then:
+Try repacking the paired delimiter for the string. Place your cursor in the string and then:
 
-> Say `"round switch this"`
+> Say `"round repack this"`
 
 Try it again, but this time using a mark.
 
@@ -24,11 +24,11 @@ Your list should look like this:
 const list = ["hello", world, yar];
 ```
 
-Now, place your cursor inside the "hello" string and issue a `"switch"` command.
+Now, place your cursor inside the "hello" string and issue a `"repack"` command.
 
-> Say `"ski switch this"`
+> Say `"ski repack this"`
 
-What happened? Did the list's delimiter switch from a bracket to a backtick? `"switch"` operates on the nearest set of paired delimiters.
+What happened? Did the list's delimiter repack from a bracket to a backtick? `"repack"` operates on the nearest set of paired delimiters.
 
 ##### Exercise 3
 
@@ -36,6 +36,6 @@ This exercise assumes knowledge about [Inside and Bound](../../modifiers/inside_
 
 Let's turn the whole right side of the statement into a template string. Place your cursor inside of `"value"` and issue the following command.
 
-> Say `"ski switch box"`
+> Say `"ski repack box"`
 
 Rather than targeting the nearest delimiter, Cursorless will search for the nearest delimiter of the type specified. Undo your changes and try it yourself with the other delimiters in the statement.

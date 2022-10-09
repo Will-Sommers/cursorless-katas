@@ -16,7 +16,7 @@ You'll now be left with an odd looking list:
 
 You can now change the paired delimiter by saying:
 
-> `"box switch this"`
+> `"box repack this"`
 
 Success! Now we have a list of the keys.
 
